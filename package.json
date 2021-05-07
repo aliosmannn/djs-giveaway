@@ -1,0 +1,54 @@
+{
+  "_from": "djs-giveaway",
+  "_id": "djs-giveaway@1.0.7",
+  "_inBundle": false,
+  "_integrity": "sha512-J9VEFc8mkzgh88CAKUYAdOY+d5w6fqUYJ1idIA3QVJBrkBNrdL0mFdWfMRBFsGZTZkSEXaXNA1l+FvPXgkNKEQ==",
+  "_location": "/djs-giveaway",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "djs-giveaway",
+    "name": "djs-giveaway",
+    "escapedName": "djs-giveaway",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "files": [
+    "/src",
+    "index.js"
+  ],
+  "_resolved": "https://registry.npmjs.org/djs-giveaway/-/djs-giveaway-1.0.7.tgz",
+  "_shasum": "2562c97e12273378135a1982bff01d92201ffead",
+  "_spec": "djs-giveaway",
+  "_where": "C:\\Users\\osman\\Desktop\\djs-giveaway",
+  "author": {
+    "name": "osmandlsmn"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "discord.js": "^12.5.1",
+    "events": "^3.3.0",
+    "fs-extra": "^9.1.0",
+    "humanize-duration": "^3.25.1",
+    "ms": "^2.1.3",
+    "node-schedule": "^2.0.0",
+    "npm": "^7.6.1",
+    "replace-once": "^1.0.0",
+    "sileco.db": "^2.2.0"
+  },
+  "deprecated": false,
+  "description": "Discord Bot Giveaway System",
+  "license": "MIT",
+  "main": "index.js",
+  "name": "djs-giveaway",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.1.3"
+}

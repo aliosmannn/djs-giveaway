@@ -1,4 +1,4 @@
-!.gitignore
 /node_modules
 /.idea
 /bot.js
+/.gittignore
